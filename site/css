@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+@media (min-width:992px) {
+
+}
+
+@media(min-width:768px) and (max-width:991px){
+
+}
+
+@media (max-width:767px) {
+    
+}
+
+h1 {
+    text-align: center;
+}
+div#container {
+    background-color: #00FFFF;
+  }
+
